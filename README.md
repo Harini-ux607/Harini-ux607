@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Harini
 
-### 💻 Computer Science Graduate
-### 🎨 UI/UX Enthusiast • Web Developer • Lifelong Learner
+### 💻 Front-End Developer
+### 🎓 Computer Science Graduate • Web Developer • Lifelong Learner
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Harini%20UX&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=180&section=header&text=Harini&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Harini-ux607&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
@@ -15,32 +15,33 @@
 
 ---
 
-## ✨ About Me
+## 👩‍💻 About Me
 
-Hi! I'm **Harini**, a Computer Science graduate passionate about creating
-**simple, clean and user-friendly digital experiences.**
+Hi! I'm **Harini**, a B.Sc. Computer Science graduate with **82%**, 
+passionate about **Front-End Web Development**.
 
-I enjoy combining **development + design** to build responsive websites
-with a focus on usability and visual appearance.
+I enjoy building responsive and user-friendly websites using
+modern web technologies. I am continuously improving my JavaScript
+skills and currently exploring React.
 
-- 🎓 B.Sc. Computer Science Graduate
-- 💻 Interested in Web Development
-- 🎨 Interested in UI/UX Design
+- 🎓 B.Sc. Computer Science Graduate — 82%
+- 💻 Aspiring Front-End Developer
+- 🌐 Interested in Web Development
 - 🌱 Currently learning JavaScript & React
-- 🚀 Building real-world projects
+- 🚀 Building real-world web projects
 - 📚 Always learning and improving
 
 ---
 
-# 🧩 My Skills
+# 💻 My Skills
 
 <div align="center">
 
-### 💻 Development
+### Programming & Web Development
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,sql" />
 
-### 🛠️ Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=github,vscode" />
 
@@ -48,34 +49,12 @@ with a focus on usability and visual appearance.
 
 ---
 
-# 🎨 UI/UX Design Interests
-
-<div align="center">
-
-| 🎯 | 📱 | 🎨 | 🧩 |
-|---|---|---|---|
-| User Experience | Responsive Design | Visual Design | Clean Layouts |
-| Usability | Mobile Friendly | Typography | Components |
-
-</div>
-
-I enjoy working on:
-
-- 🎯 User-friendly interfaces
-- 📱 Responsive layouts
-- 🎨 Color & typography
-- 🧩 Reusable UI components
-- 🖱️ Interactive elements
-- 📐 Clean website layouts
-- ✨ Simple and modern designs
-
----
-
 # 🚀 Featured Projects
 
 ## 🏥 Physio Clinic Website
 
-A responsive website created for a physiotherapy clinic.
+A responsive website developed for a physiotherapy clinic.
+The project focuses on creating a clean and responsive web experience.
 
 **Technologies**
 
@@ -84,30 +63,36 @@ A responsive website created for a physiotherapy clinic.
 🔗 **Live Website:**  
 https://harini-ux607.github.io/physio-clinic/
 
+🔗 **GitHub:**  
+https://github.com/Harini-ux607/physio-clinic
+
 ---
 
-## 🛍️ Nostra E-Commerce Website
+## ⏰ What Did My Time Gone
 
-A modern fashion/e-commerce style website created while practicing
-responsive layouts and UI design.
+A web project created to help users understand and track
+how they spend their time.
 
 **Technologies**
 
 `HTML` `CSS` `JavaScript`
 
 🔗 **GitHub:**  
-https://github.com/Harini-ux607
+https://github.com/Harini-ux607/what-did-my-time-gone
 
 ---
 
-## 🏥 Healthcare Patient Management System
+## 📚 Book Shop Website
 
-A college project designed to manage healthcare-related information
-with **regional language support**.
+A responsive book shop website created while practicing
+HTML, CSS and JavaScript.
 
-**Focus**
+**Technologies**
 
-`Patient Management` `Healthcare` `Regional Language Support`
+`HTML` `CSS` `JavaScript`
+
+🔗 **GitHub:**  
+https://github.com/Harini-ux607/book-shop
 
 ---
 
@@ -122,10 +107,12 @@ JavaScript
      ↓
 DOM Manipulation
      ↓
+Events
+     ↓
 Async JavaScript
      ↓
 Fetch API
      ↓
 React
      ↓
-Modern Web Development
+Modern Front-End Development
